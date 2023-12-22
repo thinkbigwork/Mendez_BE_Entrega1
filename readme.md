@@ -2,8 +2,7 @@ Entrega 1 - Back End - Martin Mendez
 ====================
 
 Repositorio
-https://github.com/thinkbigwork/PFJS_Mendez
-
+https://github.com/thinkbigwork/Mendez_BE_Entrega1
 
 
 Descripcion
