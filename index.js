@@ -26,7 +26,7 @@
             //Agregar producto con ID autoincrementable
             product.id = this.id++
             this.products.push(product)
-            console.log(`Producto agregado correctamente`)
+            console.log(`Producto *${product.title}* agregado correctamente`)
         }
 
         // Metodo para obtener productos
