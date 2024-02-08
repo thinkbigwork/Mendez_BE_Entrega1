@@ -99,6 +99,5 @@ function loadProducts() {
 
 function codeGenerator (){
     let code = Math.random().toString(36).substring(3, 9)
-
     return code
 }
